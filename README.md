@@ -1,4 +1,4 @@
-# JSON Data Management Dashboard
+# JSON Data Management project
 
 A modern React application for managing and displaying book data in a beautiful, interactive interface.
 
@@ -17,12 +17,7 @@ A modern React application for managing and displaying book data in a beautiful,
   - Real-time search results
   - Responsive design
 
-- 🎨 **Modern UI**
-  - Clean, minimalist design
-  - Smooth hover animations
-  - Responsive grid layout
-  - Color-coded genre tags
-  - Interactive elements
+
 
 ## 📋 Prerequisites
 
