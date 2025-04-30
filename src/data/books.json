@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "publishedYear": 1925,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publishedYear": 1960,
+      "rating": 4.8,
+      "isBestSeller": true
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publishedYear": 1949,
+      "rating": 4.6,
+      "isBestSeller": true
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedYear": 1813,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Coming-of-age",
+      "publishedYear": 1951,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1937,
+      "rating": 4.7,
+      "isBestSeller": true
+    },
+    {
+      "id": 7,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "publishedYear": 1932,
+      "rating": 4.1,
+      "isBestSeller": true
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1954,
+      "rating": 4.8,
+      "isBestSeller": true
+    },
+    {
+      "id": 9,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "publishedYear": 1866,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 10,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "publishedYear": 1988,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 11,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "publishedYear": 2003,
+      "rating": 4.0,
+      "isBestSeller": true
+    },
+    {
+      "id": 12,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "publishedYear": 2008,
+      "rating": 4.5,
+      "isBestSeller": true
+    },
+    {
+      "id": 13,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Crime",
+      "publishedYear": 2005,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 14,
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Historical Fiction",
+      "publishedYear": 2003,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 15,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "publishedYear": 2005,
+      "rating": 4.6,
+      "isBestSeller": true
+    },
+    {
+      "id": 16,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "publishedYear": 2012,
+      "rating": 4.1,
+      "isBestSeller": true
+    },
+    {
+      "id": 17,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Young Adult",
+      "publishedYear": 2012,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 18,
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "genre": "Historical Fiction",
+      "publishedYear": 2009,
+      "rating": 4.5,
+      "isBestSeller": true
+    },
+    {
+      "id": 19,
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Adventure",
+      "publishedYear": 2001,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 20,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "publishedYear": 2011,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 21,
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Fantasy",
+      "publishedYear": 2011,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 22,
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "genre": "Fiction",
+      "publishedYear": 2013,
+      "rating": 4.0,
+      "isBestSeller": true
+    },
+    {
+      "id": 23,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Psychological Thriller",
+      "publishedYear": 2019,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 24,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "publishedYear": 2018,
+      "rating": 4.5,
+      "isBestSeller": true
+    },
+    {
+      "id": 25,
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Mystery",
+      "publishedYear": 2018,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 26,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fiction",
+      "publishedYear": 2020,
+      "rating": 4.1,
+      "isBestSeller": true
+    },
+    {
+      "id": 27,
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "publishedYear": 2021,
+      "rating": 4.6,
+      "isBestSeller": true
+    },
+    {
+      "id": 28,
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "genre": "Historical Fiction",
+      "publishedYear": 2017,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 29,
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "genre": "Fiction",
+      "publishedYear": 2018,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 30,
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "genre": "Historical Fiction",
+      "publishedYear": 2020,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 31,
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "genre": "Science Fiction",
+      "publishedYear": 2021,
+      "rating": 4.1,
+      "isBestSeller": true
+    },
+    {
+      "id": 32,
+      "title": "The Invisible Life of Addie LaRue",
+      "author": "V.E. Schwab",
+      "genre": "Fantasy",
+      "publishedYear": 2020,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 33,
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "genre": "Fantasy",
+      "publishedYear": 2020,
+      "rating": 4.5,
+      "isBestSeller": true
+    },
+    {
+      "id": 34,
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "genre": "Fantasy",
+      "publishedYear": 2020,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 35,
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "genre": "Mystery",
+      "publishedYear": 2020,
+      "rating": 4.1,
+      "isBestSeller": true
+    },
+    {
+      "id": 36,
+      "title": "The Push",
+      "author": "Ashley Audrain",
+      "genre": "Psychological Thriller",
+      "publishedYear": 2021,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 37,
+      "title": "The Four Winds",
+      "author": "Kristin Hannah",
+      "genre": "Historical Fiction",
+      "publishedYear": 2021,
+      "rating": 4.4,
+      "isBestSeller": true
+    },
+    {
+      "id": 38,
+      "title": "Malibu Rising",
+      "author": "Taylor Jenkins Reid",
+      "genre": "Historical Fiction",
+      "publishedYear": 2021,
+      "rating": 4.2,
+      "isBestSeller": true
+    },
+    {
+      "id": 39,
+      "title": "Cloud Cuckoo Land",
+      "author": "Anthony Doerr",
+      "genre": "Historical Fiction",
+      "publishedYear": 2021,
+      "rating": 4.3,
+      "isBestSeller": true
+    },
+    {
+      "id": 40,
+      "title": "The Lincoln Highway",
+      "author": "Amor Towles",
+      "genre": "Historical Fiction",
+      "publishedYear": 2021,
+      "rating": 4.4,
+      "isBestSeller": true
+    }
+]
+  
